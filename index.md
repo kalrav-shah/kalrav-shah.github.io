@@ -16,7 +16,9 @@ Quick Learner | **kalravshah.p@gmail.com** | **+91-9429117318** | [**https://www
 # PROJECTS
 &quot;Farm On &quot; an IoT based Farming System With automated irrigation System.
 # EXPERIENCE
-Internship at Zev &amp; Erza Automation Umbergaon On Ui design.InternShip At 1Rivet India On Angular Framework.
+Working as a PPC Excecutive at EbrandZ LLP.
+InternShip At 1Rivet India On Angular Framework.
+Internship at Zev &amp; Erza Automation Umbergaon On Ui design.
 # Personal Details
 
 
