@@ -14,11 +14,11 @@ Quick Learner | **kalravshah.p@gmail.com** | **+91-9429117318** | [**https://www
 | SSC | Shri CR desai swaminarayan High School (GSEB) | 77% |
 
 # PROJECTS
-&quot;Farm On &quot; an IoT based Farming System With automated irrigation System.
+- &quot;Farm On &quot; an IoT based Farming System With automated irrigation System.
 # EXPERIENCE
-Working as a PPC Excecutive at EbrandZ LLP.
-InternShip At 1Rivet India On Angular Framework.
-Internship at Zev &amp; Erza Automation Umbergaon On Ui design.
+- Working as a PPC Excecutive at EbrandZ LLP.
+- InternShip At 1Rivet India On Angular Framework.
+- Internship at Zev &amp; Erza Automation Umbergaon On Ui design.
 # Personal Details
 
 
@@ -29,8 +29,8 @@ Internship at Zev &amp; Erza Automation Umbergaon On Ui design.
 | Date of Birth: | 29/11/1996 |
 
 # SKILLS
-Have managed more than 10+ projects single handedly
-Managing more than 30 team projects
+- Have managed more than 10+ projects single handedly
+- Managing more than 30 team projects
 
 # AWARDS/CERTIFICATIONS
 
