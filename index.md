@@ -3,7 +3,7 @@ Quick Learner | **kalravshah.p@gmail.com** | **+91-9429117318** | [**https://www
 
 # CAREER OBJECTIVE:
 
-# I like to work in a challenging atmosphere by expanding my skills with sincerity and dedicated smart work for the growth of your organization along with mine. I always seem to extend my limits of learning &amp; am always eager to learn new things &amp; work with new technologies.
+I like to work in a challenging atmosphere by expanding my skills with sincerity and dedicated smart work for the growth of your organization along with mine. I always seem to extend my limits of learning &amp; am always eager to learn new things &amp; work with new technologies.
 
 # EDUCATION
 
@@ -38,6 +38,7 @@ Quick Learner | **kalravshah.p@gmail.com** | **+91-9429117318** | [**https://www
 - TEDx Echo talk in Laxmi Institute of Technology on &quot;E-Waste Management&quot;.
 - Volunteered for TEDx Echo talent.
 - Have been in the College Tech-fest center board of trustees.
+- Google Digital Marketing Certifications 
 
 # LANGUAGES
 English,Gujarati,Hindi
