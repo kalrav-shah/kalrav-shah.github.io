@@ -29,11 +29,8 @@ Internship at Zev &amp; Erza Automation Umbergaon On Ui design.
 | Date of Birth: | 29/11/1996 |
 
 # SKILLS
-
-
-| Frameworks: | Angular |
-| --- | --- |
-| Area of Interest: | Business Analysis , Networking |
+Have managed more than 10+ projects single handedly
+Managing more than 30 team projects
 
 # AWARDS/CERTIFICATIONS
 
