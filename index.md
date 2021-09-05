@@ -1,8 +1,6 @@
-|
 # **Kalrav R. Shah**
-Quick Learner | **kalravshah.p@gmail.com**** +91-9429117318**[**https://www.linkedin.com/in/kalravshah96/**](https://www.linkedin.com/in/kalravshah96/) |
-| --- | --- |
-|
+Quick Learner | **kalravshah.p@gmail.com** **+91-9429117318** [**https://www.linkedin.com/in/kalravshah96/**](https://www.linkedin.com/in/kalravshah96/)
+
 # CAREER OBJECTIVE:
 
 # I like to work in a challenging atmosphere by expanding my skills with sincerity and dedicated smart work for the growth of your organization along with mine. I always seem to extend my limits of learning &amp; am always eager to learn new things &amp; work with new technologies.
@@ -27,12 +25,6 @@ Internship at Zev &amp; Erza Automation Umbergaon On Ui design.InternShip At 1Ri
 | Sex: | MALE |
 | Address: | 104/A Hira Appt Rajan Nagar Valsad. |
 | Date of Birth: | 29/11/1996 |
-
-
- |
-#
-
-#
 
 # SKILLS
 
