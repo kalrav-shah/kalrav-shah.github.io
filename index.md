@@ -1,5 +1,5 @@
 # **Kalrav R. Shah**
-Quick Learner | **kalravshah.p@gmail.com** **+91-9429117318** [**https://www.linkedin.com/in/kalravshah96/**](https://www.linkedin.com/in/kalravshah96/)
+Quick Learner | **kalravshah.p@gmail.com** | **+91-9429117318** | [**https://www.linkedin.com/in/kalravshah96/**](https://www.linkedin.com/in/kalravshah96/)
 
 # CAREER OBJECTIVE:
 
