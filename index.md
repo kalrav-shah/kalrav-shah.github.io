@@ -41,4 +41,4 @@ Internship at Zev &amp; Erza Automation Umbergaon On Ui design.InternShip At 1Ri
 - Have been in the College Tech-fest center board of trustees.
 
 # LANGUAGES
-English,Gujarati,Hindi |
+English,Gujarati,Hindi
