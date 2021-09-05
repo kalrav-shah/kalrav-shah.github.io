@@ -1,37 +1,52 @@
-## Welcome to GitHub Pages
+|
+# **Kalrav R. Shah**
+Quick Learner | **kalravshah.p@gmail.com**** +91-9429117318**[**https://www.linkedin.com/in/kalravshah96/**](https://www.linkedin.com/in/kalravshah96/) |
+| --- | --- |
+|
+# CAREER OBJECTIVE:
 
-You can use the [editor on GitHub](https://github.com/kalrav-shah/kalrav-shah.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# I like to work in a challenging atmosphere by expanding my skills with sincerity and dedicated smart work for the growth of your organization along with mine. I always seem to extend my limits of learning &amp; am always eager to learn new things &amp; work with new technologies.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# EDUCATION
 
-### Markdown
+| Course | School/college &amp; University | CGPA/Percentage |
+| --- | --- | --- |
+| BE(IT) | Laxmi Institute of technology (GTU) | 7.58/ 10 |
+| HSC | Bai Ava Bai High School (HSEB) | 50% |
+| SSC | Shri CR desai swaminarayan High School (GSEB) | 77% |
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# PROJECTS
+&quot;Farm On &quot; an IoT based Farming System With automated irrigation System.
+# EXPERIENCE
+Internship at Zev &amp; Erza Automation Umbergaon On Ui design.InternShip At 1Rivet India On Angular Framework.
+# Personal Details
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+| Name: | KALRAV R SHAH |
+| --- | --- |
+| Sex: | MALE |
+| Address: | 104/A Hira Appt Rajan Nagar Valsad. |
+| Date of Birth: | 29/11/1996 |
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+ |
+#
 
-**Bold** and _Italic_ and `Code` text
+#
 
-[Link](url) and ![Image](src)
-```
+# SKILLS
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+| Frameworks: | Angular |
+| --- | --- |
+| Area of Interest: | Business Analysis , Networking |
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kalrav-shah/kalrav-shah.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+# AWARDS/CERTIFICATIONS
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- TEDx Echo talk in Laxmi Institute of Technology on &quot;E-Waste Management&quot;.
+- Volunteered for TEDx Echo talent.
+- Have been in the College Tech-fest center board of trustees.
+
+# LANGUAGES
+English,Gujarati,Hindi |
