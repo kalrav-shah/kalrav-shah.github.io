@@ -76,7 +76,8 @@ ROI.
 > Increased revenue by designing and enacting marketing strategies
 > within budget parameters, as well as studying key consumer and market data.
 > Handled a team of Five.
-> **eBrandZ** **LLP** **-** **PPC** **Project** **Executive** *Surat,**India*
+
+**eBrandZ** **LLP** **-** **PPC** **Project** **Executive** *Surat,**India**
 > *08/2020* *-* *10/2022*
 > Ads & Analytics Platforms - Google, Bing, Google Analytics, Clarity,Spyfu
 > Maintain and monitor keyword bids, account daily and monthly budget caps,impression share, quality score and other important account metrics.
@@ -84,20 +85,20 @@ ROI.
 > Provided recommendations and executed strategies for keyword opportunities, campaign structuring, targeting, display network in accordance with client goals.
 > Producing detailed analysis, monthly reports & KPI reports of campaigns. Trained & Mentored Juniors.
 
-> **Webiots** **-** **Angular** **Developer** *Surat,* *India*
+**Webiots** **-** **Angular** **Developer** *Surat,* *India*
 > *02/2020* *-* *07/2020*
 >
 > Updated old code bases to modern Development standards, improving functionality.
 > Identified and eliminated performance bottlenecks by determining root causes and remediating problematic code.
 
-> **1Rivet** **-** **Angular** **Intern** *Valsad,* *India*
+**1Rivet** **-** **Angular** **Intern** *Valsad,* *India*
 > *06/2019* *-* *11/2019*
 >
 > Worked on an in-house module creating front-end using Angular 7.
 > Used coordination and planning skills to achieve results according to schedule.
 > Collaborated with team members to achieve target results.
-> 
-> **Zev** **&** **Erza** **Automation** **-** **UI** **Intern**
+
+**Zev** **&** **Erza** **Automation** **-** **UI** **Intern**
 > *Umbergaon,* *India*
 >
 > *10/2018* *-* *10/2018*
