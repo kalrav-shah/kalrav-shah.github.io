@@ -2,7 +2,7 @@
 
 **kalravshah.p@gmail.com** **+91-9426844158** **Mumbai,** **India**
 
-**Skills**
+**Skills**\
 Google Ads\
 Email marketing campaigns\
 Marketing strategies\
