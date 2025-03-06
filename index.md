@@ -1,24 +1,28 @@
+**Kalrav Shah**
+
 **kalravshah.p@gmail.com** **+91-9426844158** **Mumbai,** **India**
 
 **Skills**
-
-> Google Ads
-> Google Analytics
-> Email marketing campaigns
-> Marketing strategies
-> Google Ads Editor
-> Performance Analysis
-> Campaign Optimization
-> Google Analytics
-> Microsoft Clarity
-> Shopify
-> Competitor Analysis
+Google Ads
+Google Analytics
+Email marketing campaigns
+Marketing strategies
+Google Ads Editor
+Performance Analysis
+Campaign Optimization
+Google Analytics
+Microsoft Clarity
+Shopify
+Competitor Analysis
 
 Education And Training
 
->**Bachelor** **of** **Engineering**: Information Technology Laxmi Institute of Technology (GTU) (2019), Sarigam
->**HSC**:Bai Ava Bai High School (HSEB) Valsad
->**SSC**: Shri CR Desai Swaminarayan High School (GSEB) Valsad
+**Bachelor** **of** **Engineering**: 
+>Information Technology Laxmi Institute of Technology (GTU) (2019), Sarigam
+**HSC**:
+>Bai Ava Bai High School (HSEB) Valsad
+**SSC**:
+>Shri CR Desai Swaminarayan High School (GSEB) Valsad
 
 **Kalrav** **Shah**
 
@@ -52,7 +56,9 @@ ROI.
 > Managing a team of PPC Executives.
 
  **SocioBliss** **-** **Senior** **Performance** **Marketer** *Mumbai,**India*
-> *11/2022* *-* *05/2023*
+
+*11/2022* *-* *05/2023*
+
 > Platforms - Google, Bing, Apple, Facebook, Google Analytics,DataStudio, SpyFu.
 > Analyze and optimize campaigns - Monitoring the performance of marketing campaigns & optimizing campaigns for maximum performance.
 > Collaborating with cross-functional teams & Staying up-to-date w/ industry trends.
@@ -65,7 +71,9 @@ ROI.
 > Handled a team of Five.
 
 **eBrandZ** **LLP** **-** **PPC** **Project** **Executive** *Surat,**India**
-> *08/2020* *-* *10/2022*
+
+*08/2020* *-* *10/2022*
+
 > Ads & Analytics Platforms - Google, Bing, Google Analytics, Clarity,Spyfu
 > Maintain and monitor keyword bids, account daily and monthly budget caps,impression share, quality score and other important account metrics.
 > Overseeing existing campaigns and optimizing them & Analyzing trends and making data-driven decisions.
@@ -73,27 +81,28 @@ ROI.
 > Producing detailed analysis, monthly reports & KPI reports of campaigns. Trained & Mentored Juniors.
 
 **Webiots** **-** **Angular** **Developer** *Surat,* *India*
-> *02/2020* *-* *07/2020*
->
+
+*02/2020* *-* *07/2020*
+
 > Updated old code bases to modern Development standards, improving functionality.
 > Identified and eliminated performance bottlenecks by determining root causes and remediating problematic code.
 
 **1Rivet** **-** **Angular** **Intern** *Valsad,* *India*
-> *06/2019* *-* *11/2019*
->
+
+*06/2019* *-* *11/2019*
+
 > Worked on an in-house module creating front-end using Angular 7.
 > Used coordination and planning skills to achieve results according to schedule.
 > Collaborated with team members to achieve target results.
 
-**Zev** **&** **Erza** **Automation** **-** **UI** **Intern**
-> *Umbergaon,* *India*
->
-> *10/2018* *-* *10/2018*
->
+**Zev** **&** **Erza** **Automation** **-** **UI** **Intern** *Umbergaon,* *India*
+
+*10/2018* *-* *10/2018*
+
 > Built highly functional web applications using JavaScript, HTML and CSS.
 > Collaborated with teammates to deliver valuable features meeting business and customer needs.
 
-> **Accomplishments**
-> TEDx Echo talk in Laxmi Institute of Technology on Topic “E-Waste Management”.
-> Volunteered for TEDx Echo talent.
-> Have been in the College Tech-fest center board of trustees.
+**Accomplishments**
+TEDx Echo talk in Laxmi Institute of Technology on Topic “E-Waste Management”.
+Volunteered for TEDx Echo talent.
+Have been in the College Tech-fest center board of trustees.
