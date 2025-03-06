@@ -16,22 +16,9 @@
 
 Education And Training
 
-**Bachelor** **of** **Engineering**: Information Technology Laxmi
-Institute of Technology (GTU) (2019)
-
-Sarigam
-
-**HSC**:
-
-Bai Ava Bai High School (HSEB)
-
-Valsad
-
-**SSC**:
-
-Shri CR Desai Swaminarayan High School (GSEB)
-
-Valsad
+>**Bachelor** **of** **Engineering**: Information Technology Laxmi Institute of Technology (GTU) (2019), Sarigam
+>**HSC**:Bai Ava Bai High School (HSEB) Valsad
+>**SSC**: Shri CR Desai Swaminarayan High School (GSEB) Valsad
 
 **Kalrav** **Shah**
 
