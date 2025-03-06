@@ -3,17 +3,16 @@
 **kalravshah.p@gmail.com** **+91-9426844158** **Mumbai,** **India**
 
 **Skills**
-*Google Ads*
-*Google Analytics*
-*Email marketing campaigns*
-*Marketing strategies*
-*Google Ads Editor*
-*Performance Analysis*
-*Campaign Optimization*
-*Google Analytics*
-*Microsoft Clarity*
-*Shopify*
-*Competitor Analysis*
+Google Ads\
+Email marketing campaigns\
+Marketing strategies\
+Google Ads Editor\
+Performance Analysis\
+Campaign Optimization\
+Google Analytics\
+Microsoft Clarity\
+Shopify\
+Competitor Analysis\
 
 **Education And Training**
 
@@ -56,7 +55,7 @@ ROI.
 > Helping co-founder in creating pitch decks and crafting strategies.
 > Managing a team of PPC Executives.
 
- **SocioBliss** **-** **Senior** **Performance** **Marketer** *Mumbai,**India*
+**SocioBliss** **-** **Senior** **Performance** **Marketer** *Mumbai,**India*
 
 *11/2022* *-* *05/2023*
 
