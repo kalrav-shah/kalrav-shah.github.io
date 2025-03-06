@@ -3,28 +3,29 @@
 **kalravshah.p@gmail.com** **+91-9426844158** **Mumbai,** **India**
 
 **Skills**
-Google Ads
-Google Analytics
-Email marketing campaigns
-Marketing strategies
-Google Ads Editor
-Performance Analysis
-Campaign Optimization
-Google Analytics
-Microsoft Clarity
-Shopify
-Competitor Analysis
+*Google Ads*
+*Google Analytics*
+*Email marketing campaigns*
+*Marketing strategies*
+*Google Ads Editor*
+*Performance Analysis*
+*Campaign Optimization*
+*Google Analytics*
+*Microsoft Clarity*
+*Shopify*
+*Competitor Analysis*
 
-Education And Training
+**Education And Training**
 
 **Bachelor** **of** **Engineering**: 
 >Information Technology Laxmi Institute of Technology (GTU) (2019), Sarigam
+
 **HSC**:
 >Bai Ava Bai High School (HSEB) Valsad
+
 **SSC**:
 >Shri CR Desai Swaminarayan High School (GSEB) Valsad
 
-**Kalrav** **Shah**
 
 **Summary**
 
@@ -103,6 +104,6 @@ ROI.
 > Collaborated with teammates to deliver valuable features meeting business and customer needs.
 
 **Accomplishments**
-TEDx Echo talk in Laxmi Institute of Technology on Topic “E-Waste Management”.
-Volunteered for TEDx Echo talent.
-Have been in the College Tech-fest center board of trustees.
+*TEDx Echo talk in Laxmi Institute of Technology on Topic “E-Waste Management”.*
+*Volunteered for TEDx Echo talent.*
+*Have been in the College Tech-fest center board of trustees.*
